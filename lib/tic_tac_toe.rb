@@ -44,3 +44,6 @@ def turn(board)
   end
 end
 
+WIN_COMBINATIONS = 
+[
+  ]
