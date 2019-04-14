@@ -2,9 +2,54 @@
   "RSpec": {
     "coverage": {
       "/home/UrsulaAntares/tic-tac-toe-rb-dc-fasttrack-041319/lib/tic_tac_toe.rb": [
-
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1555265778
+    "timestamp": 1555265923
   }
 }
